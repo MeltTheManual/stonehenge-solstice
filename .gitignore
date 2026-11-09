@@ -1,0 +1,4 @@
+# local test output, not part of the project
+screenshots/
+verify/
+node_modules/
